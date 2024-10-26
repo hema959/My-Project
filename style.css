@@ -164,7 +164,7 @@ transition: all.5s ease;
     position: absolute;
     top:0;
     right: 0;
-    background: url('../Image/profile.JPG') no-repeat center center/cover;
+    background: url('./image/profile.3.jpg') no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
